@@ -5,11 +5,11 @@
 
 ## ✔︎ 애니메이션 리소스
 '''
-<?xml version="1.0" encoding="utf-8"?>
-<set xmlns:android="http://schemas.android.com/apk/res/android">
-    <translate
+\<?xml version="1.0" encoding="utf-8"?\>
+\<set xmlns:android="http://schemas.android.com/apk/res/android"\>
+    \<translate
         android:duration="1000"
         android:fromYDelta="100%"
-        android:toYDelta="0%"/>
-</set>
+        android:toYDelta="0%"/\>
+\</set\>
 '''
